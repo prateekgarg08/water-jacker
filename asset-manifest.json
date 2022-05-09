@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/water-jacker/static/css/main.4ff275f7.css",
+    "main.js": "/water-jacker/static/js/main.e98fc4bc.js",
+    "index.html": "/water-jacker/index.html",
+    "main.4ff275f7.css.map": "/water-jacker/static/css/main.4ff275f7.css.map",
+    "main.e98fc4bc.js.map": "/water-jacker/static/js/main.e98fc4bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ff275f7.css",
+    "static/js/main.e98fc4bc.js"
+  ]
+}
